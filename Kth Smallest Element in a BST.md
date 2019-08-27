@@ -1,19 +1,19 @@
 ```python
 class Solution:
-    def preOrder(self, root):
+    def inorder(self, root):
         if not root: return []
         
         res = []
-        res += self.preOrder(root.left)
+        res += self.inorder(root.left)
         res += [root.val]
-        res += self.preOrder(root.right)
+        res += self.inorder(root.right)
         
         return res
         
     def kthSmallest(self, root: TreeNode, k: int) -> int:
-        if not root: return -1 
+        if not root: return 
         
-        res = self.preOrder(root)
+        res = self.inorder(root)
         
         return res[k-1]
 ```
