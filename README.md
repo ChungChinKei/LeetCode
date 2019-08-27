@@ -1,6 +1,7 @@
 # LeetCode
 | Index      | Title     |Solution| Difficulty     |
 | ---------- | :-----------:  | :-----------: | :-----------: |
+|78    | [子集](https://leetcode-cn.com/problems/subsets/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Subsets.md)    | Medium     |
 |94    | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/submissions/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Binary%20Tree%20Inorder%20Traversal.md)    | Medium     |
 |136    | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Single%20Number.md)    | Easy     |
 |141    | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Linked%20List%20Cycle.md)    | Easy     |
