@@ -1,5 +1,5 @@
 ## 快排返回[-k]
-```
+```python
 class Solution:
     def quickSort(self, nums):
         if len(nums) < 2: return nums
