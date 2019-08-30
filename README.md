@@ -1,7 +1,8 @@
 # LeetCode
 | Index      | Title     |Solution| Difficulty     |
 | ---------- | :-----------:  | :-----------: | :-----------: |
-|2    | [两数想加](https://leetcode-cn.com/problems/add-two-numbers/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Add%20Two%20Numbers.md)    | Medium     |
+|2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Add%20Two%20Numbers.md)    | Medium     |
+|9    | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Palindrome%20Number.md)    | Easy     |
 |21    | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Merge%20Two%20Sorted%20Lists.md)    | Easy     |
 |78    | [子集](https://leetcode-cn.com/problems/subsets/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Subsets.md)    | Medium     |
 |94    | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/submissions/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Binary%20Tree%20Inorder%20Traversal.md)    | Medium     |
