@@ -5,6 +5,7 @@
 |9    | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Palindrome%20Number.md)    | Easy     |
 |21    | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Merge%20Two%20Sorted%20Lists.md)    | Easy     |
 |78    | [子集](https://leetcode-cn.com/problems/subsets/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Subsets.md)    | Medium     |
+|92    | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Reverse%20Linked%20List%20II.md)    | Medium     |
 |94    | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/submissions/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Binary%20Tree%20Inorder%20Traversal.md)    | Medium     |
 |136    | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Single%20Number.md)    | Easy     |
 |141    | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |[Python](https://github.com/ChungChinKei/LeetCode/blob/master/Linked%20List%20Cycle.md)    | Easy     |
