@@ -25,3 +25,13 @@ class Solution:
                 return True
         return False
 ```
+## 利用集合比较长度
+```python
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        list_len = len(nums)
+        set_len = len(set(nums))
+
+        return False if list_len == set_len else True
+```
+
