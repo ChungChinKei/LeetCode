@@ -1,0 +1,16 @@
+```python
+class Solution:
+    def __init__(self):
+        self.res = []
+        
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        self.permutation(nums,[])
+        return self.res
+    
+    def permutation(self,nums,sub):
+        if not nums and sub not in self.res: 
+            self.res.append(sub)
+        
+        for i in range(len(nums)):
+            self.permutation(nums[:i]+nums[i+1:], sub + [nums[i]])
+```
